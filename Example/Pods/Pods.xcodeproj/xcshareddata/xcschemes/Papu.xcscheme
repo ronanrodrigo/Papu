@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '29F4D0EAA029556885EB8521'
+               BlueprintIdentifier = 'A4F50AE103751F87B369C471'
                BlueprintName = 'Papu'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'Papu.framework'>

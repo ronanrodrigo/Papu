@@ -1,25 +1,20 @@
 {
   "name": "Papu",
   "version": "0.1.0",
-  "summary": "A short description of Papu.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/Papu",
+  "summary": "Talk suggestion by category.",
+  "description": "A study case aboute Clean Architecture with Swift/Xcode Projects.",
+  "homepage": "https://github.com/ronanrodrigo/Papu",
   "license": "MIT",
   "authors": {
     "Ronan Rodrigo Nunes": "ronan.nunes@me.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/Papu.git",
+    "git": "https://github.com/ronanrodrigo/Papu.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "8.0"
   },
   "requires_arc": true,
-  "source_files": "Pod/Classes/**/*",
-  "resource_bundles": {
-    "Papu": [
-      "Pod/Assets/*.png"
-    ]
-  }
+  "source_files": "Pod/**/*"
 }

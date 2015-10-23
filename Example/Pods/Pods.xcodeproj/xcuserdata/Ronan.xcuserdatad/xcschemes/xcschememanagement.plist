@@ -9,11 +9,6 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Papu-Papu.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Papu.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -32,12 +27,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>762F6966A0A4BD1F8EBC46712C386FE9</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>BF718E03FD2821152B73F973E551707F</key>
+		<key>A0492C6E19E621AF530E719B8124D743</key>
 		<dict>
 			<key>primary</key>
 			<true/>
