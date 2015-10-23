@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/Ronan/Codes/Area51/Papu/Example/build/Debug-iphonesimulator/Papu.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Papu-Swift.h",
+          'external-contents': "/Users/Ronan/Codes/Area51/Papu/Example/build/Debug-iphonesimulator/Papu.framework/Headers/Papu-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Papu-umbrella.h",
+          'external-contents': "/Users/Ronan/Codes/Area51/Papu/Example/Pods/Target Support Files/Papu/Papu-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Ronan/Codes/Area51/Papu/Example/build/Debug-iphonesimulator/Papu.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Ronan/Codes/Area51/Papu/Example/build/Pods.build/Debug-iphonesimulator/Papu.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

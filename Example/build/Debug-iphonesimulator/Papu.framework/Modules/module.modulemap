@@ -1,0 +1,10 @@
+framework module Papu {
+  umbrella header "Papu-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module Papu.Swift {
+    header "Papu-Swift.h"
+}

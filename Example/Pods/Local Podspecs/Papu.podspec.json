@@ -1,0 +1,25 @@
+{
+  "name": "Papu",
+  "version": "0.1.0",
+  "summary": "A short description of Papu.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/Papu",
+  "license": "MIT",
+  "authors": {
+    "Ronan Rodrigo Nunes": "ronan.nunes@me.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/Papu.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "Papu": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

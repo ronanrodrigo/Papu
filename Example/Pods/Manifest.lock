@@ -1,0 +1,20 @@
+PODS:
+  - Nimble (2.0.0)
+  - Papu (0.1.0)
+  - Quick (0.3.1)
+
+DEPENDENCIES:
+  - Nimble
+  - Papu (from `../`)
+  - Quick (~> 0.3.1)
+
+EXTERNAL SOURCES:
+  Papu:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 472e75466819eb8c06299233e87c694a9b51328a
+  Papu: 12d06768c5bf9ac4b686bc48263e8f5b60e63505
+  Quick: 824572d3d198d51e52cf4aa722cebf7e59952a35
+
+COCOAPODS: 0.39.0
